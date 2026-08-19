@@ -1,0 +1,10 @@
+figure.portrait {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.portrait img {
+    width: 100%;
+    height: auto;
+}

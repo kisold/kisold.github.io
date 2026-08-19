@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Kramer的观演与访古</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kramer的观演与访古</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 09:12:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>访古</title>
+      <link>http://localhost:1313/tags/%E8%AE%BF%E5%8F%A4/</link>
+      <pubDate>Wed, 19 Aug 2026 09:12:17 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E8%AE%BF%E5%8F%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>古典音乐</title>
+      <link>http://localhost:1313/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/</link>
+      <pubDate>Wed, 19 Aug 2026 09:12:17 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>古建</title>
+      <link>http://localhost:1313/tags/%E5%8F%A4%E5%BB%BA/</link>
+      <pubDate>Wed, 19 Aug 2026 09:12:17 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8F%A4%E5%BB%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>随笔</title>
+      <link>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Wed, 19 Aug 2026 09:12:17 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+locale = 'zh-cn'
+defaultContentLanguage = 'zh'
+title = 'Kramer的观演与访古'
+theme = "PaperMod"
+
+[params]
+mainSections = ["posts"]
+defaultTheme = "light"
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+Title = "听见些什么，看见些什么。"
+Content = "古典音乐、古建，以及一些顺手记下来的东西。"
+
+[[menu.main]]
+name = "文章"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "标签"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+name = "关于"
+url = "/about/"
+weight = 30
