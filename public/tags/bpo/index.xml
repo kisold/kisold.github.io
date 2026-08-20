@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BPO on Kramer的观演与访古</title>
+    <link>http://localhost:1313/tags/bpo/</link>
+    <description>Recent content in BPO on Kramer的观演与访古</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bpo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>原创新鲜，观众未必买账｜12把大提琴音乐会回溯</title>
+      <link>http://localhost:1313/posts/original-arranged-12cellos/</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/original-arranged-12cellos/</guid>
+      <description>柏林爱乐12把大提琴组合巡演北京，引发关于原创作品与改编作品的并行思考</description>
+    </item>
+  </channel>
+</rss>
