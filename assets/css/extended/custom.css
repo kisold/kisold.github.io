@@ -12,17 +12,22 @@
     font-size: 18px !important; 
 }
 
-figure.portrait {
-    max-width: 70%;
+/* 普通图片：正文宽度 */
+.post-content figure {
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
 
-figure.portrait img {
+.post-content figure img {
     width: 100%;
     height: auto;
 }
 
+/* 竖图：缩到正文宽度的 70% */
+.post-content figure.portrait {
+    max-width: 70%;
+}
 
 /* 主题切换：月亮/太阳改为小方块 */
 #theme-toggle svg {

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paul·Lewis on Kramer的观演与访古</title>
+    <link>http://localhost:1313/tags/paullewis/</link>
+    <description>Recent content in Paul·Lewis on Kramer的观演与访古</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/paullewis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从严谨到松弛｜元旦听Paul·Lewis</title>
+      <link>http://localhost:1313/posts/paul-lewis-piano-2601/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/paul-lewis-piano-2601/</guid>
+      <description>Paul Lewis的钢琴，不光人是绅士范儿，审美也很英国。</description>
+    </item>
+  </channel>
+</rss>
