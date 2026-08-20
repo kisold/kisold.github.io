@@ -8,3 +8,53 @@ figure.portrait img {
     width: 100%;
     height: auto;
 }
+
+
+/* 主题切换：月亮/太阳改为小方块 */
+#theme-toggle svg {
+    display: none;
+}
+
+#theme-toggle::before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #8E3B2E;
+    border-radius: 1px;
+    vertical-align: middle;
+}
+body.dark #theme-toggle::before {
+    background: #C98A7B;
+}
+
+/* 标题 hover */
+.post-entry:hover .entry-header h2 {
+    color: #8E3B2E;
+}
+
+/* 首页整体纵向密度 */
+.first-entry {
+    min-height: auto;
+    margin: 24px 0 18px;
+}
+
+/* 首页文章卡片 */
+.post-entry {
+    margin-bottom: 18px;
+    padding: 18px 20px;
+}
+
+/* 标题与摘要距离 */
+.entry-header {
+    margin-bottom: 6px;
+}
+
+.entry-content {
+    margin: 6px 0 8px;
+}
+
+/* 日期等信息 */
+.entry-footer {
+    margin-top: 6px;
+}
